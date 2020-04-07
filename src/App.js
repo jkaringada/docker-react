@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Jeff and jith and Trevor
+          This is a test of an automated deployment
         </p>
         <a
           className="App-link"
